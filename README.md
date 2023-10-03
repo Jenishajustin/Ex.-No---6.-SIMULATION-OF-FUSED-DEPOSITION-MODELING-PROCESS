@@ -25,6 +25,11 @@ System - Windows 7 or higher, 1 GB RAM.
 Name: JENISHA.J
 Register Number: 212222230056
 ```
+### Start Process
+![start](https://github.com/Jenishajustin/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119405070/7acc3281-e340-428d-90f0-abd9dff3bdce)
 
-## Result:
+### Stop Process
+![stop](https://github.com/Jenishajustin/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119405070/a2462b84-e0ee-41ff-8185-d2e33944d9e2)
+
+## RESULT:
 Thus the simulation on the FDM process is completed & prototyping process is studied.
