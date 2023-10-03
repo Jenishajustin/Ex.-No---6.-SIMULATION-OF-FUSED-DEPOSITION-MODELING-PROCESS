@@ -2,7 +2,7 @@
 
 ## DATE: 03.10.2023
 ## AIM:
-To simulate the Fused Deposition Modeling (FDM) process.
+To simulate the Fused Deposition Modeling (FDM) procesS.
 
 ## REQUIREMENTS:
 System - Windows 7 or higher, 1 GB RAM.
