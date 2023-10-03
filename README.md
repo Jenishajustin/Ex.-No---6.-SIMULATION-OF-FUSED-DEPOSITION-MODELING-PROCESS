@@ -8,7 +8,7 @@ To simulate the Fused Deposition Modeling (FDM) procesS.
 System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
+1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.\n
 2: Click on 'Extruder' then extruder and extruder nozzle will be displayed.
 3: Click on 'Material Spool' then material spool will be shown.
 4: Click on 'Filament' then filament will be added.
